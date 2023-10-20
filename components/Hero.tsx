@@ -1,3 +1,3 @@
 export const Hero = () => {
-  return <div>Hero</div>;
+  return <section className="border-2 border-red-500">Hero</section>;
 };
