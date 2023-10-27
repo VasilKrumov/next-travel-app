@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next Travel App
+
+Welcome to Next Travel App! This is a travel-focused application, designed to provide users with an intuitive interface for planning their next travel adventures. With a clean, user-friendly layout, it simplifies your travel planning experiences.
+
+## Technologies Used
+
+This project is implemented with a variety of cutting-edge technologies to ensure a seamless user experience and efficient performance:
+
+- **[Next.js](https://nextjs.org/)**: A powerful React framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.
+- **[Tailwind CSS](https://tailwindcss.com/)**: A highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+- **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces, enabling the development of complex, interactive UIs in a more efficient and flexible way.
+
+_(Feel free to add any other technologies or tools you used in the project here)_
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running, follow these simple steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- You need to have Node.js installed on your computer. If you don't have Node.js, [download it here](https://nodejs.org/).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repository
+`git clone https://github.com/VasilKrumov/next-travel-app.git`
 
-## Learn More
+2. Navigate to the project directory
+`cd next-travel-app`
 
-To learn more about Next.js, take a look at the following resources:
+3. Install NPM packages
+`npm install`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Start the development server
+`npm run dev` 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Now you can open your browser and visit `http://localhost:3000` to view the app. Enjoy exploring various travel destinations and planning your trips!
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Fork the Project
+2. Create your Feature Branch 
+`git checkout -b feature/AmazingFeature`
+
+3. Commit your Changes 
+`git commit -m 'Add some AmazingFeature'`
+
+4. Push to the Branch 
+`git push origin feature/AmazingFeature`
+
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
